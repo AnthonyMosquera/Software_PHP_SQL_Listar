@@ -1,5 +1,9 @@
-Bienvenidos.
+#Listar registros con PHP y SQL Server
 
-Proyecto desarrollado con PHP y conectado a una base de datos SQL Server. 
-Para el diseño utilizamos Bootstrap 4 y DataTables.
-Gracias a DataTables y sus librerias obtenemos el diseño para dispositivos móviles.
+Curso desarrollado para usuarios con conocimientos básicos donde aprenderán a listar registros desde una base de datos SQL Server en un proyecto web con PHP.
+
+![image](https://github.com/user-attachments/assets/58c2dd4c-9319-4483-aa1c-906272da4cbb)
+
+Para incribirte al curso: https://www.udemy.com/course/mostrar-o-listar-registros-con-php-y-sql-server/
+
+![image](https://github.com/user-attachments/assets/730fa527-fd87-45bc-96b1-122a61907177)
